@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.automation.pageobject.homepage.VerifyLoginWithDifferentrecords">
+      <class name="com.automation.pageobject.homepage.verifytest">
         <methods>
           <include name="setUp"/>
-          <include name="testLogin"/>
           <include name="endTest"/>
+          <include name="VerifyCreateAccountbutton"/>
         </methods>
-      </class> <!-- com.automation.pageobject.homepage.VerifyLoginWithDifferentrecords -->
+      </class> <!-- com.automation.pageobject.homepage.verifytest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

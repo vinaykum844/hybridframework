@@ -216,3 +216,7 @@
 2018-06-16 19:09:30 INFO  HomePage:45 - clicking on submit
 2018-06-16 19:09:31 INFO  TestBase:42 - creating object ofchrome
 2018-06-16 19:09:34 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-07-07 23:09:06 INFO  TestBase:42 - creating object ofchrome
+2018-07-07 23:09:23 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-07-07 23:12:16 INFO  TestBase:42 - creating object ofchrome
+2018-07-07 23:12:22 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php

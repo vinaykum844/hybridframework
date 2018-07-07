@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.automation.pageobject.testbase.TestBase;
 import com.automation.pageobject.uiActions.HomePage;
 
-public class verifytest extends TestBase {
+public class TestVerify extends TestBase {
 
 	HomePage homepage;
 	WebElement createAccount;
