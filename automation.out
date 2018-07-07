@@ -1,0 +1,218 @@
+2018-06-13 23:41:20 INFO  HomePage:35 - clicking on signin
+2018-06-13 23:41:23 INFO  HomePage:37 - entering email
+2018-06-13 23:41:23 INFO  HomePage:39 - entering password
+2018-06-13 23:41:23 INFO  HomePage:41 - clicking on submit
+2018-06-13 23:49:56 INFO  TestBase:27 - creating object ofchrome
+2018-06-13 23:50:00 INFO  TestBase:33 - navigating tohttp://automationpractice.com/index.php
+2018-06-13 23:50:32 INFO  HomePage:35 - clicking on signin
+2018-06-13 23:50:34 INFO  HomePage:37 - entering email
+2018-06-13 23:50:35 INFO  HomePage:39 - entering password
+2018-06-13 23:50:35 INFO  HomePage:41 - clicking on submit
+2018-06-15 00:00:28 INFO  TestBase:35 - creating object offirefox
+2018-06-15 00:02:58 INFO  TestBase:35 - creating object offirefox
+2018-06-15 00:06:45 INFO  TestBase:35 - creating object offirefox
+2018-06-15 00:10:42 INFO  TestBase:29 - creating object ofchrome
+2018-06-15 00:10:49 INFO  TestBase:41 - navigating tohttp://automationpractice.com/index.php
+2018-06-15 00:11:28 INFO  HomePage:36 - clicking on signin
+2018-06-15 00:11:32 INFO  HomePage:38 - entering email
+2018-06-15 00:11:33 INFO  HomePage:40 - entering password
+2018-06-15 00:11:33 INFO  HomePage:42 - clicking on submit
+2018-06-15 00:17:47 INFO  TestBase:35 - creating object offirefox
+2018-06-15 00:20:41 INFO  TestBase:36 - creating object offirefox
+2018-06-15 00:21:38 INFO  TestBase:35 - creating object offirefox
+2018-06-16 08:46:51 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 08:46:58 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 08:47:30 INFO  HomePage:36 - clicking on signin
+2018-06-16 08:47:32 INFO  HomePage:38 - entering email
+2018-06-16 08:47:32 INFO  HomePage:40 - entering password
+2018-06-16 08:47:33 INFO  HomePage:42 - clicking on submit
+2018-06-16 09:02:39 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:02:45 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:03:19 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:03:23 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:03:56 INFO  HomePage:39 - clicking on signin
+2018-06-16 09:03:58 INFO  HomePage:41 - entering email
+2018-06-16 09:03:59 INFO  HomePage:43 - entering password
+2018-06-16 09:03:59 INFO  HomePage:45 - clicking on submit
+2018-06-16 09:05:40 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:05:46 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:09:27 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:09:31 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:12:56 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:13:00 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:13:32 INFO  HomePage:39 - clicking on signin
+2018-06-16 09:13:33 INFO  HomePage:41 - entering email
+2018-06-16 09:13:34 INFO  HomePage:43 - entering password
+2018-06-16 09:13:34 INFO  HomePage:45 - clicking on submit
+2018-06-16 09:13:36 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:13:38 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:29:47 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:29:55 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:30:26 INFO  HomePage:39 - clicking on signin
+2018-06-16 09:30:28 INFO  HomePage:41 - entering email
+2018-06-16 09:30:28 INFO  HomePage:43 - entering password
+2018-06-16 09:30:29 INFO  HomePage:45 - clicking on submit
+2018-06-16 09:30:31 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:30:33 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:37:00 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:37:05 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:37:36 INFO  HomePage:39 - clicking on signin
+2018-06-16 09:37:37 INFO  HomePage:41 - entering email
+2018-06-16 09:37:38 INFO  HomePage:43 - entering password
+2018-06-16 09:37:38 INFO  HomePage:45 - clicking on submit
+2018-06-16 09:37:40 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:37:43 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:39:19 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:39:23 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 09:39:28 INFO  TestBase:28 - creating object ofchrome
+2018-06-16 09:39:31 INFO  TestBase:35 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 17:31:17 INFO  TestBase:31 - creating object ofchrome
+2018-06-16 17:31:24 INFO  TestBase:38 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 17:37:12 INFO  TestBase:31 - creating object ofchrome
+2018-06-16 17:37:18 INFO  TestBase:38 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 17:37:51 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:37:53 INFO  HomePage:41 - entering email
+2018-06-16 17:37:53 INFO  HomePage:43 - entering password
+2018-06-16 17:37:53 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:37:55 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:37:57 INFO  HomePage:41 - entering email
+2018-06-16 17:37:57 INFO  HomePage:43 - entering password
+2018-06-16 17:37:57 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:37:59 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:38:00 INFO  HomePage:41 - entering email
+2018-06-16 17:38:01 INFO  HomePage:43 - entering password
+2018-06-16 17:38:01 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:38:03 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:38:05 INFO  HomePage:41 - entering email
+2018-06-16 17:38:05 INFO  HomePage:43 - entering password
+2018-06-16 17:38:05 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:38:07 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:38:09 INFO  HomePage:41 - entering email
+2018-06-16 17:38:09 INFO  HomePage:43 - entering password
+2018-06-16 17:38:10 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:38:11 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:38:12 INFO  HomePage:41 - entering email
+2018-06-16 17:38:13 INFO  HomePage:43 - entering password
+2018-06-16 17:38:13 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:38:14 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:38:17 INFO  HomePage:41 - entering email
+2018-06-16 17:38:17 INFO  HomePage:43 - entering password
+2018-06-16 17:38:17 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:05 INFO  TestBase:31 - creating object ofchrome
+2018-06-16 17:59:10 INFO  TestBase:38 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 17:59:23 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:25 INFO  HomePage:41 - entering email
+2018-06-16 17:59:26 INFO  HomePage:43 - entering password
+2018-06-16 17:59:26 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:27 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:29 INFO  HomePage:41 - entering email
+2018-06-16 17:59:29 INFO  HomePage:43 - entering password
+2018-06-16 17:59:29 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:31 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:33 INFO  HomePage:41 - entering email
+2018-06-16 17:59:33 INFO  HomePage:43 - entering password
+2018-06-16 17:59:33 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:34 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:36 INFO  HomePage:41 - entering email
+2018-06-16 17:59:36 INFO  HomePage:43 - entering password
+2018-06-16 17:59:36 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:38 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:40 INFO  HomePage:41 - entering email
+2018-06-16 17:59:40 INFO  HomePage:43 - entering password
+2018-06-16 17:59:40 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:42 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:43 INFO  HomePage:41 - entering email
+2018-06-16 17:59:44 INFO  HomePage:43 - entering password
+2018-06-16 17:59:44 INFO  HomePage:45 - clicking on submit
+2018-06-16 17:59:45 INFO  HomePage:39 - clicking on signin
+2018-06-16 17:59:47 INFO  HomePage:41 - entering email
+2018-06-16 17:59:48 INFO  HomePage:43 - entering password
+2018-06-16 17:59:48 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:04:08 INFO  TestBase:31 - creating object ofchrome
+2018-06-16 18:04:13 INFO  TestBase:38 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 18:04:25 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:04:28 INFO  HomePage:41 - entering email
+2018-06-16 18:04:28 INFO  HomePage:43 - entering password
+2018-06-16 18:04:28 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:04:30 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:04:32 INFO  HomePage:41 - entering email
+2018-06-16 18:04:32 INFO  HomePage:43 - entering password
+2018-06-16 18:04:32 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:04:34 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:04:36 INFO  HomePage:41 - entering email
+2018-06-16 18:04:36 INFO  HomePage:43 - entering password
+2018-06-16 18:04:37 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:04:38 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:04:40 INFO  HomePage:41 - entering email
+2018-06-16 18:04:41 INFO  HomePage:43 - entering password
+2018-06-16 18:04:41 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:04:42 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:04:44 INFO  HomePage:41 - entering email
+2018-06-16 18:04:44 INFO  HomePage:43 - entering password
+2018-06-16 18:04:45 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:43:55 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 18:43:59 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 18:44:33 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:44:35 INFO  HomePage:41 - entering email
+2018-06-16 18:44:36 INFO  HomePage:43 - entering password
+2018-06-16 18:44:36 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:44:38 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:44:39 INFO  HomePage:41 - entering email
+2018-06-16 18:44:40 INFO  HomePage:43 - entering password
+2018-06-16 18:44:40 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:44:42 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:44:44 INFO  HomePage:41 - entering email
+2018-06-16 18:44:44 INFO  HomePage:43 - entering password
+2018-06-16 18:44:44 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:44:46 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:44:48 INFO  HomePage:41 - entering email
+2018-06-16 18:44:48 INFO  HomePage:43 - entering password
+2018-06-16 18:44:48 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:44:50 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:44:52 INFO  HomePage:41 - entering email
+2018-06-16 18:44:52 INFO  HomePage:43 - entering password
+2018-06-16 18:44:52 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:49:14 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 18:49:19 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 18:49:51 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:49:53 INFO  HomePage:41 - entering email
+2018-06-16 18:49:54 INFO  HomePage:43 - entering password
+2018-06-16 18:49:54 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:49:55 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:49:57 INFO  HomePage:41 - entering email
+2018-06-16 18:49:57 INFO  HomePage:43 - entering password
+2018-06-16 18:49:57 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:49:59 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:50:01 INFO  HomePage:41 - entering email
+2018-06-16 18:50:01 INFO  HomePage:43 - entering password
+2018-06-16 18:50:01 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:50:03 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:50:05 INFO  HomePage:41 - entering email
+2018-06-16 18:50:06 INFO  HomePage:43 - entering password
+2018-06-16 18:50:06 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:50:08 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:50:09 INFO  HomePage:41 - entering email
+2018-06-16 18:50:10 INFO  HomePage:43 - entering password
+2018-06-16 18:50:10 INFO  HomePage:45 - clicking on submit
+2018-06-16 18:53:33 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 18:53:38 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 18:59:09 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 18:59:14 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 18:59:46 INFO  HomePage:39 - clicking on signin
+2018-06-16 18:59:48 INFO  HomePage:41 - entering email
+2018-06-16 18:59:49 INFO  HomePage:43 - entering password
+2018-06-16 18:59:49 INFO  HomePage:45 - clicking on submit
+2018-06-16 19:03:31 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 19:03:36 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 19:04:09 INFO  HomePage:39 - clicking on signin
+2018-06-16 19:04:11 INFO  HomePage:41 - entering email
+2018-06-16 19:04:11 INFO  HomePage:43 - entering password
+2018-06-16 19:04:11 INFO  HomePage:45 - clicking on submit
+2018-06-16 19:09:08 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 19:09:13 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
+2018-06-16 19:09:27 INFO  HomePage:39 - clicking on signin
+2018-06-16 19:09:29 INFO  HomePage:41 - entering email
+2018-06-16 19:09:29 INFO  HomePage:43 - entering password
+2018-06-16 19:09:30 INFO  HomePage:45 - clicking on submit
+2018-06-16 19:09:31 INFO  TestBase:42 - creating object ofchrome
+2018-06-16 19:09:34 INFO  TestBase:49 - navigating tohttp://automationpractice.com/index.php
